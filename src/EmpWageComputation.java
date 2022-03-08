@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class EmpWageComputation<empCalculationMonthly> {
+public class EmpWageComputation{
     static int Wage_Per_Hour = 20;
     static int Full_Day_Hour = 8;
     static int Half_Day_Hour = 4;
