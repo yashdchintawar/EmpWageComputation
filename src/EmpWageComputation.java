@@ -4,7 +4,7 @@ public class EmpWageComputation{
     static int Wage_Per_Hour = 20;
     static int Full_Day_Hour = 8;
     static int Half_Day_Hour = 4;
-    public static void main(String[] args) {
+    public static void empwagecalculation() {
 
         System.out.println("Welcome To Employee Wage Computation");
 
@@ -44,4 +44,8 @@ public class EmpWageComputation{
         System.out.println("Total Days Employee Wage is: " + empDaysCount);
         System.out.println("Total Hours Employee Wage is: " + empHoursCount);
         }
+
+    public static void main(String[] args) {
+        empwagecalculation();
+    }
     }
