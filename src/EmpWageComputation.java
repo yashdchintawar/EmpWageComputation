@@ -6,7 +6,7 @@ public class EmpWageComputation{
     static int Half_Day_Hour = 4;
     public static void empwagecalculation() {
 
-        System.out.println("Welcome To Employee Wage Computation");
+        System.out.println("Welcome To Employee Wage Computation"); //welcome message
 
         int empCalculationMonthly = 0;
         int empDaysCount = 1;
